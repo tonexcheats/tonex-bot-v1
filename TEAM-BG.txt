@@ -1,0 +1,11 @@
+# APPLE GAMING FF Free Fire Bot Credentials
+# Fill in your Free Fire account credentials below
+
+# Format 1: Comma-separated (RECOMMENDED)
+uid=5571756381,password=AFED89C2DBD361057E4B7AFA1DBE89BDDF7DBFF492EFD35501F97FA6A48E9C95
+
+# OR Format 2: Line-separated
+# uid: 5571756381
+# password: AFED89C2DBD361057E4B7AFA1DBE89BDDF7DBFF492EFD35501F97FA6A48E9C95
+
+# Save this file and restart the bot
